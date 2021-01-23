@@ -8,3 +8,4 @@ erl_crash.dump
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+kaitai_struct_elixir_runtime-*.tar
